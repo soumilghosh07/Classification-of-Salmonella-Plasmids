@@ -14,7 +14,7 @@ To run the SVM classification experiment, follow these steps:
 2. **Python Installation:** Ensure that you have Python installed on your system.
 3. **Install Dependencies:** Install the required Python packages listed in the `requirements.txt` file using `pip install -r requirements.txt`.
 4. **Download Dataset:** Obtain the dataset file `sal.xlsx` containing the plasmid sequences and gene ontology terms.
-5. **Execute the Script:** Run the provided Python script `svm_classification.py` to execute the SVM classification experiment.
+5. **Execute the Notebook:** Run the provided Python notebook `SALvp.ipynb` to execute the SVM classification experiment.
 
 ## How to Use
 
